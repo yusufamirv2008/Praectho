@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.all{
+    background-image: url(./img/Rectangle\ 17\ \(4\).png);
+    height: 400px;
+}
